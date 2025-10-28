@@ -1,6 +1,6 @@
 # builder-relayer-client
 
-TypeScript client library for interacting with Polymarket relayer infrastructure
+Prediction Markets for everything! From crypto, politics and sports to gaming, culture and technology.
 
 ## Installation
 
