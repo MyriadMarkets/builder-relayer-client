@@ -1,6 +1,6 @@
 # builder-relayer-client
 
-Prediction Markets for everything! From crypto, politics and sports to gaming, culture and technology.
+Prediction Markets for everything! From crypto, politics and sports to gaming, culture and technology. 
 
 ## Installation
 
